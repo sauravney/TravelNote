@@ -1,0 +1,160 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Hirekerur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-04T07:16:58.926Z",
+      "notes": "raunak\n",
+      "position": {
+        "lat": "14.498508149446216",
+        "lng": "75.41015625"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Kot Addu",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-09-04T07:17:19.978Z",
+      "notes": "i hate this city",
+      "position": {
+        "lat": "30.37287518811804",
+        "lng": "71.30126953125001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Biota",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-04T09:07:11.816Z",
+      "notes": "fhhf",
+      "position": {
+        "lat": "42.22851735620852",
+        "lng": "-1.2524414062500002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Bhadravati",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-04T09:10:02.410Z",
+      "notes": "i loved the trip",
+      "position": {
+        "lat": "13.811409769012187",
+        "lng": "75.76171875000001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Mangalore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-04T09:10:26.509Z",
+      "notes": "i loved the trip",
+      "position": {
+        "lat": "12.87071486786017",
+        "lng": "74.91027832031251"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-04T09:14:55.133Z",
+      "notes": "gfghdftyh",
+      "position": {
+        "lat": "41.77131167976407",
+        "lng": "-0.81298828125"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Kalyandurg",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-04T09:15:18.859Z",
+      "notes": "gjhgj",
+      "position": {
+        "lat": "14.546367041119531",
+        "lng": "77.18444824218751"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Arsikere",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-04T15:47:34.995Z",
+      "notes": "dundi d pruthvi",
+      "position": {
+        "lat": "13.432366575813774",
+        "lng": "76.33300781250001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Bijapur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-04T15:49:19.081Z",
+      "notes": "dundi ka gau",
+      "position": {
+        "lat": "16.794023610508034",
+        "lng": "75.728759765625"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-08T05:41:59.209Z",
+      "notes": "i loved this place especially coffee",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.3620605468750004"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-08T05:43:31.738Z",
+      "notes": "jyfuy",
+      "position": {
+        "lat": "12.97244201057838",
+        "lng": "77.67333984375001"
+      },
+      "id": 98443209
+    }
+  ]
+}
