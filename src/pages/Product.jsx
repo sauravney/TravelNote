@@ -13,9 +13,7 @@ export default function Product() {
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
-          <h2>
-            About <TravelNote></TravelNote>.
-          </h2>
+          <h2>About TravelNote.</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
             dicta illum vero culpa cum quaerat architecto sapiente eius non
