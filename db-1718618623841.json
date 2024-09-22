@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Gironde estuary and Pertuis sea Marine Nature Park",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-17T09:59:22.046Z",
+      "notes": "",
+      "position": {
+        "lat": "45.59283879304433",
+        "lng": "-1.0656473720401372"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Tejeda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-17T09:59:32.701Z",
+      "notes": "",
+      "position": {
+        "lat": "27.965429164463057",
+        "lng": "-15.650426119392382"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "El Houaita",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-06-17T10:01:05.134Z",
+      "notes": "",
+      "position": {
+        "lat": "33.57989766475791",
+        "lng": "2.391545338796837"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Agastiswaram",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-17T10:02:39.496Z",
+      "notes": "",
+      "position": {
+        "lat": "8.14209015415021",
+        "lng": "77.56515489711501"
+      },
+      "id": 98443212
+    }
+  ]
+}
