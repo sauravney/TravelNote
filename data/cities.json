@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Tejeda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-17T09:59:32.701Z",
+      "notes": "",
+      "position": {
+        "lat": "27.965429164463057",
+        "lng": "-15.650426119392382"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "El Houaita",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-06-17T10:01:05.134Z",
+      "notes": "",
+      "position": {
+        "lat": "33.57989766475791",
+        "lng": "2.391545338796837"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Saryozek",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-08-25T14:51:43.613Z",
+      "notes": "",
+      "position": {
+        "lat": "44.258423667439395",
+        "lng": "77.8382133049682"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Channagiri",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-25T20:42:19.977Z",
+      "notes": "ddd",
+      "position": {
+        "lat": "14.157881896141474",
+        "lng": "75.93750000000001"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Sotonera, La",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-16T19:52:13.364Z",
+      "notes": "tyfydulik",
+      "position": {
+        "lat": "42.22851735620852",
+        "lng": "-0.6262207031250001"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-16T21:16:17.769Z",
+      "notes": "ghvtf",
+      "position": {
+        "lat": "12.933295352241137",
+        "lng": "77.62166976928712"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Velascalvaro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-17T11:23:45.137Z",
+      "notes": "ghyhb",
+      "position": {
+        "lat": "41.244772343082076",
+        "lng": "-4.94384765625"
+      },
+      "id": 98443217
+    }
+  ]
+}
