@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://travelnote.onrender.com";
 
 const CitiesContext = createContext();
 
